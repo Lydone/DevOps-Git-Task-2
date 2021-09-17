@@ -8,4 +8,5 @@
 Необходимые команды:
 1. git branch develop - создается ветка develop со всеми коммитами
 2. git reset --hard HEAD~2 - для ветки master 2 последних коммита стираются
+
 После этого открываем PR develop -> master.
